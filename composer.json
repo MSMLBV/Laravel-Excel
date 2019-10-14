@@ -1,5 +1,5 @@
 {
-    "name": "msml/excel",
+    "name": "maatwebsite/excel",
     "description": "Supercharged Excel exports in Laravel",
     "license": "MIT",
     "keywords": [
@@ -24,7 +24,8 @@
         "illuminate/support": "^6.0",
         "jeremeamia/superclosure": "^2.3",
         "nesbot/carbon": "^2.0.0",
-        "tijsverkoyen/css-to-inline-styles": "~2.0"
+        "tijsverkoyen/css-to-inline-styles": "~2.0",
+        "phpoffice/phpspreadsheet": "^1.9"
     },
     "require-dev": {
         "phpseclib/phpseclib": "~1.0",
